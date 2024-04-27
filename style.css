@@ -1,3 +1,10 @@
+body {
+  display: grid;
+  grid-template-columns: 15% 1fr 15%;
+}
+
 .image-wrapper {
+  align-self: center;
+  width: 80%;
   border: 1px solid;
 }
