@@ -35,3 +35,7 @@ main {
   width: 80%;
   border: 1px solid;
 }
+
+footer {
+  font-size: 13px;
+}
