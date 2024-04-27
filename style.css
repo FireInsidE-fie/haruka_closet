@@ -30,10 +30,13 @@ html {
   font-family: YurukaStd;
 }
 
+body {
+  margin: auto 15% auto 15%;
+}
+
 main {
-  align-self: center;
-  width: 80%;
   border: 1px solid;
+  padding: 5pt 5pt 5pt 5pt;
 }
 
 footer {
