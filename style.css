@@ -25,12 +25,17 @@ body {
 /* End Yuruka font importation */
 
 html {
-  background-color: #b5e7ff;
+  /* background-color: #b5e7ff; */
   font-family: YurukaStd;
+  background-image: url("resources/checks.png");
+  background-repeat: repeat;
+  background-size: 5%;
 }
 
 body {
+  background-color: aliceblue;
   margin: auto 15% auto 15%;
+  padding: 10px;
 }
 
 main {
