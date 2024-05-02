@@ -35,6 +35,14 @@ body {
   padding: 10px;
 }
 
+header {
+  width: auto;
+}
+
+header img {
+  width: 100%;
+}
+
 main {
   border: 1px solid;
   padding: 5pt 5pt 5pt 5pt;
