@@ -11,7 +11,7 @@ body {
 }
 */
 
-/* Start Yuruka font importation */
+/* START YURUKA FONT IMPORTATION */
 /* @import url(https://db.onlinewebfonts.com/c/2b3966678f6a1c8c8be202caeb49d95a?family=FOT-Yuruka+Std);  */
 
 @font-face {
@@ -19,7 +19,7 @@ body {
   src: url("resources/fonts/yuruka/yuruka.woff2")format("woff2"),
   url("resources/fonts/yuruka/yuruka.woff")format("woff"),
 }
-/* End Yuruka font importation */
+/* END YURUKA FONT IMPORTATION */
 
 html {
   /* background-color: #b5e7ff; */
@@ -30,17 +30,28 @@ html {
 }
 
 body {
+  position: relative;
   background-color: aliceblue;
   margin: auto 15% auto 15%;
   padding: 10px;
 }
 
 header {
+  position: relative;
   width: auto;
 }
 
 header img {
   width: 100%;
+}
+
+header i {
+  position: absolute;
+  left: 0;
+  bottom: -30px;
+  color: #3192fd;
+  font-size: 100px;
+  text-shadow: 1px;
 }
 
 main {
