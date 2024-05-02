@@ -16,11 +16,8 @@ body {
 
 @font-face {
   font-family: "YurukaStd";
-  src: url("resources/fonts/yuruka/yuruka.eot");
-  src: url("resources/fonts/yuruka/yuruka\(1\).eot")format("embedded-opentype"),
-  url("resources/fonts/yuruka/yuruka.woff2")format("woff2"),
+  src: url("resources/fonts/yuruka/yuruka.woff2")format("woff2"),
   url("resources/fonts/yuruka/yuruka.woff")format("woff"),
-  url("resources/fonts/yuruka/yuruka.ttf")format("truetype"),
 }
 /* End Yuruka font importation */
 
