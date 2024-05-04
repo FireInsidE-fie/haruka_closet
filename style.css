@@ -56,7 +56,23 @@ header i {
 
 main {
   border: 1px solid;
-  padding: 5pt 5pt 5pt 5pt;
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+a {
+  color: #3192fd;
+}
+
+a:visited {
+  color: #225ebd;
+}
+
+a:hover {
+  color: #40c9fe;
 }
 
 footer {
