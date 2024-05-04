@@ -39,6 +39,7 @@ body {
 header {
   position: relative;
   width: auto;
+  margin-bottom: -8px;
 }
 
 header img {
@@ -52,6 +53,10 @@ header i {
   color: #3192fd;
   font-size: 100px;
   text-shadow: 1px;
+}
+
+header a {
+  margin-bottom: -10px;
 }
 
 main {
