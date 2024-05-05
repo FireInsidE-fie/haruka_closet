@@ -80,6 +80,10 @@ a:hover {
   color: #40c9fe;
 }
 
+#s_clout h2, p {
+  margin: 0;
+}
+
 .buttonlink {
   background-color: #85dcff;
 }
