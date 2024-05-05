@@ -80,6 +80,10 @@ a:hover {
   color: #40c9fe;
 }
 
+.buttonlink {
+  background-color: #85dcff;
+}
+
 footer {
   padding: 5px;
   font-size: 13px;
