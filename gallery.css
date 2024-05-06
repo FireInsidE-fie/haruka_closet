@@ -1,10 +1,10 @@
-.gallery {
+.column {
   display: flex;
 }
 
 .image-holder {
-  width: 32%;
-  display: inline-block;
+  flex: 1;
+  margin: 2.5% 2.5% 0 2.5%;
 }
 
 .image-holder img {
