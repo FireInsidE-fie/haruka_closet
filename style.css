@@ -86,7 +86,6 @@ a:hover {
 
 blockquote {
   display: inline-block;
-  width: 50%;
   text-align: center;
   border: 1px solid;
   border-radius: 20px;
@@ -94,7 +93,8 @@ blockquote {
 }
 
 blockquote img {
-  width: 75%;
+  width: 50%;
+  margin: 5%;
 }
 
 #s_clout h2, p {
