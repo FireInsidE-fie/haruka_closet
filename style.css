@@ -84,6 +84,8 @@ a:hover {
   color: #40c9fe;
 }
 
+/* BEGIN AOTD STYLES */
+
 blockquote {
   display: inline-block;
   text-align: center;
@@ -94,8 +96,10 @@ blockquote {
 
 blockquote img {
   width: 50%;
-  margin: 5%;
+  margin: 1%;
 }
+
+/* END AOTD STYLES */
 
 #s_clout h2, p {
   margin: 0;
