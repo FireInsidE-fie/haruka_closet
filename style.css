@@ -84,6 +84,14 @@ a:hover {
   color: #40c9fe;
 }
 
+blockquote {
+  align-self: center;
+}
+
+blockquote img {
+  width: 50%;
+}
+
 #s_clout h2, p {
   margin: 0;
 }
