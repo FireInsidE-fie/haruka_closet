@@ -85,11 +85,16 @@ a:hover {
 }
 
 blockquote {
-  align-self: center;
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: #e7f1ff;
 }
 
 blockquote img {
-  width: 50%;
+  width: 75%;
 }
 
 #s_clout h2, p {
