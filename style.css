@@ -92,11 +92,11 @@ blockquote {
   border: 1px solid;
   border-radius: 20px;
   background-color: #e7f1ff;
+  padding: 0 5%;
 }
 
 blockquote img {
-  width: 50%;
-  margin: 1%;
+  width: 100%;
 }
 
 /* END AOTD STYLES */
