@@ -84,6 +84,24 @@ a:hover {
   color: #40c9fe;
 }
 
+/* BEGIN AOTD STYLES */
+
+blockquote {
+  text-align: center;
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: #e7f1ff;
+  padding: 0 5%;
+}
+
+blockquote img {
+  width: 100%;
+  max-height: 750px;
+  object-fit: contain;
+}
+
+/* END AOTD STYLES */
+
 #s_clout h2, p {
   margin: 0;
 }
