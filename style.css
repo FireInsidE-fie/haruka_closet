@@ -1,28 +1,14 @@
-/*
-body {
-  display: grid;
-  grid-template-columns: 15% 1fr 15%;
-}
-
-.image-wrapper {
-  align-self: center;
-  width: 80%;
-  border: 1px solid;
-}
-*/
-
 /* START YURUKA FONT IMPORTATION */
-/* @import url(https://db.onlinewebfonts.com/c/2b3966678f6a1c8c8be202caeb49d95a?family=FOT-Yuruka+Std);  */
 
 @font-face {
   font-family: "YurukaStd";
   src: url("resources/fonts/yuruka/yuruka.woff2")format("woff2"),
   url("resources/fonts/yuruka/yuruka.woff")format("woff"),
 }
+
 /* END YURUKA FONT IMPORTATION */
 
 html {
-  /* background-color: #b5e7ff; */
   font-family: YurukaStd;
   background-image: url("resources/checks.gif");
   background-repeat: repeat;
