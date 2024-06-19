@@ -73,6 +73,11 @@ a:hover {
   color: #40c9fe;
 }
 
+#gallery-link {
+  width: 350px;
+  margin: 10px auto;
+}
+
 /* BEGIN AOTD STYLES */
 
 blockquote {
